@@ -1,1 +1,1 @@
-mplayer -vo aa file_name
+mplayer -vo aa $1
